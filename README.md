@@ -1,6 +1,6 @@
 # Japan Earthquake Hazard Screening
 
-**[Open the interactive hazard map](https://kananugik.github.io/japan-earthquake-hazard-screening/outputs/earthquake_risk_map.html)** · **[Explore a simulated decade](https://kananugik.github.io/japan-earthquake-hazard-screening/outputs/earthquake_scenario_map.html)**
+**[Open the interactive hazard map](https://kananugik.github.io/japan-earthquake-hazard-screening/outputs/earthquake_risk_map.html)** · **[Explore a simulated future decade](https://kananugik.github.io/japan-earthquake-hazard-screening/outputs/earthquake_scenario_map.html)**
 
 A reproducible analysis of an earthquake catalog for Japan. The notebook explores earthquake magnitudes, depths, plate-boundary proximity, and spatial patterns, then builds a simplified map ranking areas by relative earthquake activity.
 
